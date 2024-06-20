@@ -1,0 +1,199 @@
+SL.,AGE,GENDER,MARITAL STATUS,KEY COMPLAINTS -CODE,BODY WEIGHT,BODY HEIGHT,HR PULSE,BP -HIGH,BP-LOW,RR,PAST MEDICAL HISTORY CODE,HB,UREA,CREATININE,MODE OF ARRIVAL,STATE AT THE TIME OF ARRIVAL,TYPE OF ADMSN,TOTAL COST TO HOSPITAL,TOTAL LENGTH OF STAY,LENGTH OF STAY - ICU,LENGTH OF STAY- WARD,IMPLANT USED (Y/N),COST OF IMPLANT,AGE_GROUP,HB_LEVEL,UREA_LEVEL,BMI_VALUE,BMI,BP_Cat,CREATININE_LEVEL
+156,5.0,F,Unmarried,other- heart,15.0,99,80,100.0,70.0,20,,18.9,16.0,0.4,Walked in,Alert,Elective,131727.0,8,1,7,N,0,Child,Normal,Normal,15.304560759106215,Underweight,Normal,Abnormal
+213,3.0,M,Unmarried,other- heart,15.0,100,90,110.0,60.0,22,Other,10.7,20.0,0.1,Walked in,Alert,Elective,69509.0,9,2,7,N,0,Child,Low,Abnormal,15.0,Underweight,Normal,Abnormal
+119,5.0,M,Unmarried,other- respiratory,15.4,98,123,90.0,50.0,24,,22.8,19.0,0.3,Walked in,Alert,Elective,131430.0,11,3,8,N,0,Child,Normal,Normal,16.034985422740526,Underweight,Normal,Abnormal
+197,1.0,F,Unmarried,ACHD,6.0,72,92,100.0,40.0,24,Other,13.0,23.0,0.3,Walked in,Alert,Elective,176383.0,16,2,14,N,0,Child,Normal,Abnormal,11.574074074074074,Underweight,Normal,Normal
+217,11.0,M,Unmarried,other-tertalogy,19.0,124,120,100.0,60.0,22,,23.8,,,Walked in,Alert,Elective,220899.0,17,3,14,N,0,Youngadult,Normal,Abnormal,12.356919875130073,Underweight,Normal,Abnormal
+80,12.0,M,Unmarried,,27.0,144,72,100.0,60.0,22,,12.0,18.0,1.0,Walked in,Alert,Elective,114580.0,7,1,6,N,0,Youngadult,Normal,Normal,13.020833333333334,Underweight,Normal,Normal
+148,10.0,M,Unmarried,ACHD,22.5,129,108,121.0,91.0,28,,11.9,20.0,0.3,Walked in,Alert,Elective,113706.2,6,0,6,N,0,Child,Normal,Abnormal,13.52082206598161,Underweight,Hypertension Stage 2,Abnormal
+194,63.0,M,Married,CAD-TVD,53.6,157,76,160.0,90.0,15,Diabetes1,11.0,17.0,0.8,Ambulance,Alert,Emergency,154354.0,11,1,10,N,0,Old,Normal,Normal,21.745304069130594,Normal,Hypertension Stage 2,Abnormal
+98,2.0,F,Unmarried,other- heart,8.4,80,112,89.0,56.0,30,,25.0,35.0,0.4,Walked in,Alert,Elective,165000.0,20,3,17,N,0,Child,Normal,Abnormal,13.124999999999998,Underweight,Normal,Normal
+155,1.0,F,Unmarried,other- heart,8.8,78,100,84.0,69.0,30,,12.6,19.0,0.3,Walked in,Alert,Elective,57140.85,8,1,7,N,0,Child,Normal,Normal,14.464168310322156,Underweight,Normal,Normal
+76,5.0,M,Unmarried,other- respiratory,15.0,105,115,113.0,70.0,26,,10.0,16.0,,Walked in,Alert,Elective,128196.0,7,1,6,N,0,Child,Low,Normal,13.605442176870747,Underweight,Normal,Abnormal
+83,51.0,F,Married,RHD,58.0,153,90,130.0,80.0,24,,8.4,,,Walked in,Alert,Elective,341011.0,10,3,7,Y,51450,Old,Low,Abnormal,24.77679524969029,Normal,Hypertension Stage 1,Abnormal
+102,8.0,M,Unmarried,other-tertalogy,16.6,128,82,90.0,60.0,28,,16.4,19.0,0.4,Walked in,Alert,Elective,151156.52000000002,10,2,8,N,0,Child,Normal,Normal,10.1318359375,Underweight,Normal,Abnormal
+199,7.0,M,Unmarried,PM-VSD,16.0,110,126,80.0,50.0,26,,11.5,27.0,0.3,Walked in,Alert,Elective,132585.0,8,3,5,N,0,Child,Normal,Abnormal,13.223140495867767,Underweight,Normal,Abnormal
+127,8.0,M,Unmarried,other- heart,18.0,118,106,130.0,80.0,24,,12.6,18.0,0.7,Walked in,Alert,Elective,145362.0,8,2,6,N,0,Child,Normal,Normal,12.927319735708132,Underweight,Hypertension Stage 1,Normal
+70,12.0,M,Unmarried,,25.0,134,92,110.0,56.0,24,,11.0,17.0,1.0,Walked in,Alert,Elective,120064.0,6,1,5,N,0,Youngadult,Normal,Normal,13.922922699933167,Underweight,Normal,Normal
+202,6.0,F,Unmarried,ACHD,22.0,121,96,90.0,50.0,20,,13.2,26.0,0.9,Walked in,Alert,Elective,109117.0,9,1,8,N,0,Child,Normal,Abnormal,15.026296018031555,Underweight,Normal,Normal
+128,7.0,M,Unmarried,other- respiratory,19.3,115,80,100.0,70.0,24,,13.1,16.0,0.4,Walked in,Alert,Elective,165335.52000000002,15,2,13,N,0,Child,Normal,Normal,14.59357277882798,Underweight,Normal,Abnormal
+115,36.0,M,Married,RHD,50.0,168,60,120.0,80.0,24,,13.3,21.0,1.1,Walked in,Alert,Elective,180870.0,8,1,7,Y,20900,Adult,Normal,Abnormal,17.71541950113379,Underweight,Hypertension Stage 1,Normal
+195,3.0,M,Unmarried,PM-VSD,13.1,53,88,100.0,80.0,18,,11.3,23.0,0.3,Walked in,Alert,Elective,119877.0,7,1,6,N,0,Child,Normal,Abnormal,46.63581345674616,Obese,Hypertension Stage 1,Normal
+109,7.0,M,Unmarried,other- heart,15.8,106,90,110.0,70.0,22,Other,11.4,27.0,0.3,Walked in,Alert,Elective,129684.0,8,1,7,N,0,Child,Normal,Abnormal,14.06194375222499,Underweight,Normal,Abnormal
+114,9.0,F,Unmarried,other- heart,4.9,71,104,100.0,60.0,24,,11.5,47.0,0.5,Walked in,Alert,Elective,178398.0,12,3,9,N,0,Child,Normal,Abnormal,9.720293592541163,Underweight,Normal,Normal
+74,7.0,M,Unmarried,,19.0,107,100,103.0,76.0,26,,14.0,17.0,,Walked in,Alert,Elective,152184.0,10,2,8,N,0,Child,Normal,Normal,16.59533583719102,Underweight,Normal,Abnormal
+140,55.0,F,Married,other- heart,60.0,160,92,150.0,80.0,20,Diabetes1,7.7,24.0,0.7,Walked in,Alert,Elective,84002.5,7,1,6,N,0,Old,Low,Abnormal,23.437499999999996,Normal,Hypertension Stage 1,Normal
+30,61.0,M,Married,CAD-TVD,60.0,169,60,130.0,70.0,24,,12.2,18.0,0.7,Walked in,Alert,Elective,229289.0,12,5,7,N,0,Old,Normal,Normal,21.007667798746546,Normal,Hypertension Stage 1,Abnormal
+125,46.0,F,Married,RHD,43.4,147,97,110.0,80.0,22,,12.8,46.0,0.6,Walked in,Alert,Elective,232676.0,10,2,8,Y,51450,Adult,Normal,Abnormal,20.08422416585682,Normal,Hypertension Stage 1,Normal
+116,37.0,M,Married,other- heart,46.0,62,96,140.0,90.0,20,,5.0,,,Walked in,Alert,Elective,182651.0,10,2,8,Y,56000,Adult,Low,Abnormal,119.66701352757543,Obese,Hypertension Stage 2,Abnormal
+85,7.0,F,Unmarried,other- heart,20.0,114,132,90.0,60.0,26,,16.6,18.0,0.6,Walked in,Alert,Elective,258138.0,23,4,19,Y,26000,Child,Normal,Normal,15.389350569405973,Underweight,Normal,Normal
+6,75.0,M,Married,CAD-DVD,45.0,140,130,215.0,140.0,42,,11.8,29.0,1.0,Ambulance,Alert,Emergency,372357.0,31,9,22,N,0,Old,Normal,Abnormal,22.95918367346939,Normal,Hypertension Stage 2,Normal
+57,25.0,M,Married,other- heart,47.0,170,78,130.0,90.0,24,,16.0,17.0,1.0,Walked in,Alert,Elective,131837.0,7,1,6,N,0,Youngadult,Normal,Normal,16.262975778546714,Underweight,Hypertension Stage 1,Normal
+144,8.0,M,Unmarried,other-tertalogy,22.0,130,98,101.0,70.0,24,Other,12.8,28.0,0.7,Walked in,Alert,Elective,140372.0,7,2,5,N,0,Child,Normal,Abnormal,13.01775147928994,Underweight,Normal,Normal
+228,65.0,M,Married,CAD-TVD,71.4,164,85,130.0,80.0,19,,13.7,38.0,1.1,Ambulance,Alert,Emergency,212287.0,11,5,6,N,0,Old,Normal,Abnormal,26.546698393813212,Overweight,Hypertension Stage 1,Normal
+153,2.0,M,Unmarried,other-tertalogy,11.2,98,128,120.0,80.0,24,,12.0,27.0,0.4,Walked in,Alert,Elective,142326.04,7,1,6,N,0,Child,Normal,Abnormal,11.661807580174928,Underweight,Hypertension Stage 1,Normal
+66,5.0,M,Unmarried,other- respiratory,15.0,105,115,113.0,70.0,26,,10.0,16.0,,Walked in,Alert,Elective,128196.0,7,1,6,N,0,Child,Low,Normal,13.605442176870747,Underweight,Normal,Abnormal
+171,31.0,F,Unmarried,RHD,44.0,155,80,110.0,90.0,22,,11.9,53.0,0.6,Walked in,Alert,Elective,293271.0,9,2,7,Y,102900,Adult,Normal,Abnormal,18.314255983350673,Underweight,Hypertension Stage 2,Normal
+137,5.0,M,Unmarried,ACHD,15.0,105,124,109.0,71.0,26,,10.0,32.0,0.3,Walked in,Alert,Elective,131738.27000000002,8,1,7,N,0,Child,Low,Abnormal,13.605442176870747,Underweight,Normal,Abnormal
+212,0.6666666666666666,F,Unmarried,ACHD,2.4,47,134,,,34,,12.0,18.0,0.3,Walked in,Alert,Elective,48156.0,6,1,5,N,0,Child,Normal,Normal,10.864644635581712,Underweight,Hypertensive Crisis,Normal
+147,8.0,M,Unmarried,OS-ASD,24.0,126,100,90.0,60.0,24,,14.8,25.0,0.4,Walked in,Alert,Elective,115935.54000000001,9,1,8,N,0,Child,Normal,Abnormal,15.11715797430083,Underweight,Normal,Abnormal
+32,56.0,M,Married,CAD-SVD,61.0,163,73,100.0,60.0,24,Hypertension1,16.2,28.0,1.0,Walked in,Alert,Elective,395163.0,15,4,11,Y,39690,Old,Normal,Abnormal,22.95908765854944,Normal,Normal,Normal
+13,40.0,M,Married,RHD,71.4,165,100,110.0,70.0,22,,13.2,32.0,0.9,Walked in,Alert,Elective,711616.0,17,10,7,Y,196848,Adult,Normal,Abnormal,26.22589531680441,Overweight,Normal,Normal
+36,0.8333333333333334,M,Unmarried,other- heart,6.0,68,120,,,22,,10.4,24.0,0.3,Walked in,Alert,Elective,551809.0,32,30,2,N,0,Child,Low,Abnormal,12.9757785467128,Underweight,Hypertensive Crisis,Normal
+29,70.0,M,Married,CAD-DVD,68.0,163,78,130.0,80.0,20,Hypertension1,9.0,35.0,2.0,Walked in,Alert,Elective,355276.0,22,9,13,N,0,Old,Low,Abnormal,25.59373706198954,Overweight,Hypertension Stage 1,Abnormal
+43,67.0,F,Married,other- respiratory,59.0,138,88,160.0,70.0,28,Hypertension2,10.0,37.0,1.0,Transferred,Alert,Elective,164962.0,12,2,10,N,0,Old,Low,Abnormal,30.980886368410005,Obese,Hypertension Stage 2,Normal
+169,55.0,M,Married,CAD-DVD,64.9,167,74,140.0,100.0,18,Diabetes1,16.2,15.0,0.8,Ambulance,Alert,Emergency,253368.0,16,8,8,N,0,Old,Normal,Normal,23.270823622216646,Normal,Hypertension Stage 2,Abnormal
+23,60.0,M,Married,CAD-DVD,72.5,172,104,120.0,80.0,24,Diabetes1,14.8,15.0,1.1,Walked in,Alert,Elective,348687.0,13,6,7,Y,38000,Old,Normal,Normal,24.506489994591675,Normal,Hypertension Stage 1,Normal
+94,65.0,F,Married,ACHD,43.0,155,101,130.0,90.0,24,,15.2,99.0,1.2,Ambulance,Alert,Emergency,201219.0,8,2,6,Y,30870,Old,Normal,Abnormal,17.898022892819977,Underweight,Hypertension Stage 1,Abnormal
+168,27.0,M,Unmarried,RHD,60.0,166,68,120.0,90.0,25,,14.9,21.0,0.8,Walked in,Alert,Elective,204852.36,10,2,9,Y,51450,Adult,Normal,Abnormal,21.773842357381334,Normal,Hypertension Stage 2,Abnormal
+232,65.0,F,Married,other- heart,35.5,138,88,100.0,70.0,24,Hypertension1,10.1,18.7,,Walked in,Alert,Elective,147021.0,16,0,16,N,0,Old,Low,Normal,18.64104179794161,Normal,Normal,Abnormal
+52,56.0,M,Married,,56.0,162,82,150.0,80.0,24,Hypertension2,10.0,42.0,3.0,Transferred,Alert,Elective,176340.75,14,2,12,N,0,Old,Low,Abnormal,21.338210638622158,Normal,Hypertension Stage 1,Abnormal
+96,70.0,M,Married,CAD-SVD,58.0,171,68,130.0,70.0,20,Hypertension1,10.0,53.0,1.2,Walked in,Alert,Elective,143278.83000000002,19,1,18,N,0,Old,Low,Abnormal,19.835162956123252,Normal,Hypertension Stage 1,Normal
+142,14.0,F,Unmarried,OS-ASD,37.0,155,84,90.0,60.0,22,,10.5,16.0,0.4,Walked in,Alert,Elective,123187.9,7,2,6,N,0,Youngadult,Low,Normal,15.400624349635795,Underweight,Normal,Abnormal
+198,2.0,F,Unmarried,other- heart,11.0,78,126,100.0,60.0,24,,13.5,18.0,0.3,Walked in,Alert,Elective,233522.0,15,5,10,N,0,Child,Normal,Normal,18.080210387902692,Underweight,Normal,Normal
+77,33.0,F,Married,,63.0,147,68,120.0,80.0,24,,13.0,17.0,1.0,Ambulance,Alert,Emergency,109085.84,8,1,7,N,0,Adult,Normal,Normal,29.15451895043732,Overweight,Hypertension Stage 1,Normal
+42,69.0,M,Married,other- heart,73.0,160,67,140.0,80.0,29,Hypertension3,12.0,27.0,1.0,Ambulance,Alert,Emergency,183204.0,13,6,7,N,0,Old,Normal,Abnormal,28.515624999999993,Overweight,Hypertension Stage 1,Normal
+112,6.0,M,Unmarried,ACHD,17.8,115,75,110.0,72.0,22,,10.3,18.0,0.3,Walked in,Alert,Elective,150337.0,9,2,7,N,0,Child,Low,Normal,13.4593572778828,Underweight,Normal,Abnormal
+151,6.0,F,Unmarried,ACHD,17.3,114,88,90.0,50.0,24,,10.1,22.0,0.3,Walked in,Alert,Elective,72374.0,12,1,11,N,0,Child,Low,Abnormal,13.311788242536167,Underweight,Normal,Abnormal
+79,12.0,M,Unmarried,,25.0,134,92,110.0,56.0,24,,11.0,17.0,1.0,Walked in,Alert,Elective,120064.0,6,1,5,N,0,Youngadult,Normal,Normal,13.922922699933167,Underweight,Normal,Normal
+166,51.0,M,Married,CAD-DVD,47.0,152,67,100.0,60.0,12,,14.9,23.0,0.6,Walked in,Alert,Emergency,102537.85,11,2,9,N,0,Old,Normal,Abnormal,20.342797783933516,Normal,Normal,Abnormal
+27,15.0,M,Unmarried,RHD,43.6,170,134,110.0,70.0,40,,9.9,,,Ambulance,Alert,Emergency,404644.0,22,10,12,Y,41800,Youngadult,Low,Abnormal,15.08650519031142,Underweight,Normal,Abnormal
+240,11.0,F,Unmarried,other- respiratory,29.0,139,98,110.0,60.0,24,,11.8,26.0,0.4,Walked in,Alert,Elective,124860.0,7,2,5,N,0,Youngadult,Normal,Abnormal,15.009575073753949,Underweight,Normal,Abnormal
+163,6.0,M,Unmarried,other- heart,13.0,39,80,120.0,70.0,24,,17.9,15.0,0.3,Walked in,Alert,Elective,239570.4,22,6,16,N,0,Child,Normal,Normal,85.47008547008546,Obese,Elevated,Abnormal
+187,57.0,M,Married,CAD-TVD,81.6,165,68,130.0,90.0,20,Hypertension1,14.5,19.0,1.0,Walked in,Alert,Elective,178428.0,9,4,5,N,0,Old,Normal,Normal,29.97245179063361,Overweight,Hypertension Stage 1,Normal
+141,1.0,M,Unmarried,other- heart,8.0,72,120,70.0,50.0,24,Hypertension2,18.6,15.0,0.3,Walked in,Alert,Elective,106070.0,10,1,9,N,0,Child,Normal,Normal,15.4320987654321,Underweight,Normal,Normal
+1,58.0,M,Married,other- heart,49.2,160,118,100.0,80.0,32,,11.4,33.0,0.8,Ambulance,Alert,Emergency,660293.0,25,12,13,Y,38000,Old,Normal,Abnormal,19.218749999999996,Normal,Hypertension Stage 1,Abnormal
+3,82.0,M,Married,CAD-TVD,46.6,164,100,110.0,80.0,20,Diabetes2,11.8,15.0,0.8,Walked in,Alert,Elective,362231.0,18,9,9,N,0,Old,Normal,Normal,17.32599643069602,Underweight,Hypertension Stage 1,Abnormal
+78,3.0,M,Unmarried,other- respiratory,13.0,84,120,120.0,80.0,24,,12.0,27.0,,Walked in,Alert,Elective,125643.0,9,1,8,N,0,Child,Normal,Abnormal,18.42403628117914,Underweight,Hypertension Stage 1,Abnormal
+47,39.0,F,Married,,77.0,153,86,130.0,80.0,26,,13.0,21.0,1.0,Walked in,Alert,Elective,133130.0,8,2,6,N,0,Adult,Normal,Abnormal,32.89333162458883,Obese,Hypertension Stage 1,Normal
+101,2.0,M,Unmarried,ACHD,9.4,81,119,110.0,60.0,32,Other,10.4,16.0,0.4,Walked in,Alert,Elective,179613.25,18,2,16,N,0,Child,Low,Normal,14.32708428593202,Underweight,Normal,Normal
+126,48.0,M,Married,OS-ASD,60.3,155,60,100.0,60.0,24,,15.4,,0.7,Walked in,Alert,Elective,127899.0,6,1,5,N,0,Adult,Normal,Abnormal,25.098855359001035,Overweight,Normal,Abnormal
+149,6.0,M,Unmarried,other-tertalogy,18.5,111,90,120.0,80.0,28,,15.9,16.0,0.3,Walked in,Alert,Elective,138769.38,8,1,7,N,0,Child,Normal,Normal,15.015015015015013,Underweight,Hypertension Stage 1,Abnormal
+178,7.0,F,Unmarried,other- heart,14.6,19,96,100.0,80.0,24,,9.7,22.0,0.3,Walked in,Alert,Elective,64929.0,7,1,6,N,0,Child,Low,Abnormal,404.4321329639889,Obese,Hypertension Stage 1,Abnormal
+91,2.0,F,Unmarried,other-tertalogy,11.9,86,104,95.0,39.0,24,,16.0,,,Walked in,Alert,Elective,209292.0,19,2,17,N,0,Child,Normal,Abnormal,16.08977825851812,Underweight,Normal,Abnormal
+86,19.0,F,Unmarried,RHD,50.0,156,72,110.0,70.0,22,,11.7,15.0,0.5,Walked in,Alert,Elective,275888.0,13,2,11,Y,41800,Youngadult,Normal,Normal,20.5456936226167,Normal,Normal,Abnormal
+174,44.0,M,Married,CAD-DVD,67.4,172,78,130.0,90.0,24,Hypertension1,13.5,30.0,0.8,Walked in,Alert,Elective,199677.0,15,8,7,N,0,Adult,Normal,Abnormal,22.78258518117902,Normal,Hypertension Stage 1,Abnormal
+165,9.0,F,Unmarried,OS-ASD,20.0,50,90,110.0,65.0,24,,9.9,18.0,0.3,Walked in,Alert,Elective,141232.16999999998,12,1,12,N,0,Child,Low,Normal,80.0,Obese,Normal,Abnormal
+99,55.0,M,Married,CAD-DVD,59.0,171,84,160.0,110.0,20,Hypertension1,13.1,14.0,,Walked in,Alert,Elective,262582.0,9,2,7,Y,39690,Old,Normal,Normal,20.177148524332274,Normal,Hypertension Stage 2,Abnormal
+37,0.8333333333333334,M,Married,CAD-TVD,78.0,173,82,130.0,80.0,24,Diabetes2,13.0,82.0,2.0,Walked in,Alert,Elective,293127.0,12,5,7,N,0,Child,Normal,Abnormal,26.061679307694877,Overweight,Hypertension Stage 1,Abnormal
+145,8.0,M,Unmarried,other- heart,18.4,112,100,120.0,80.0,30,,25.7,45.0,0.4,Walked in,Alert,Elective,102852.0,13,1,12,N,0,Child,Normal,Abnormal,14.668367346938773,Underweight,Hypertension Stage 1,Abnormal
+62,7.0,M,Unmarried,,19.0,107,100,103.0,76.0,26,,14.0,17.0,,Walked in,Alert,Elective,152184.0,10,2,8,N,0,Child,Normal,Normal,16.59533583719102,Underweight,Normal,Abnormal
+218,58.0,M,Married,CAD-DVD,63.0,156,72,140.0,90.0,14,,14.1,17.0,0.7,Walked in,Alert,Elective,151931.0,8,2,6,N,0,Old,Normal,Normal,25.88757396449704,Overweight,Hypertension Stage 2,Abnormal
+138,8.0,F,Unmarried,other-tertalogy,21.3,127,110,100.0,60.0,24,,18.5,15.0,0.3,Walked in,Alert,Elective,146355.0,11,2,9,N,0,Child,Normal,Normal,13.206026412052825,Underweight,Normal,Abnormal
+12,45.0,F,Married,other- heart,50.0,151,60,110.0,60.0,19,,12.7,30.0,0.9,Walked in,Alert,Elective,539976.0,27,22,5,Y,20900,Adult,Normal,Abnormal,21.928862769176792,Normal,Normal,Normal
+243,72.0,M,Married,,62.0,165,112,160.0,100.0,21,,14.6,15.0,0.8,Ambulance,Alert,Emergency,73682.0,5,3,2,N,0,Old,Normal,Normal,22.77318640955005,Normal,Hypertension Stage 2,Abnormal
+28,47.0,M,Married,CAD-TVD,73.1,171,87,100.0,70.0,22,Diabetes2,14.6,76.0,2.3,Ambulance,Alert,Emergency,278213.73,15,6,10,N,0,Adult,Normal,Abnormal,24.99914503607948,Normal,Normal,Abnormal
+230,0.9166666666666666,M,Unmarried,PM-VSD,6.4,76,130,,,24,,11.1,32.0,0.5,Walked in,Alert,Elective,146700.0,7,2,5,N,0,Child,Normal,Abnormal,11.0803324099723,Underweight,Hypertensive Crisis,Normal
+5,60.0,M,Married,CAD-DVD,58.0,175,72,180.0,100.0,18,Diabetes2,10.0,48.0,1.9,Ambulance,Alert,Emergency,444876.0,24,12,12,N,0,Old,Low,Abnormal,18.93877551020408,Normal,Hypertension Stage 2,Abnormal
+123,8.0,M,Unmarried,other- heart,17.8,117,83,98.0,70.0,24,,8.9,25.0,0.9,Walked in,Alert,Elective,144900.3,14,1,13,N,0,Child,Low,Abnormal,13.003141208269415,Underweight,Normal,Normal
+33,61.0,M,Married,CAD-TVD,65.0,170,76,140.0,80.0,26,Hypertension1,13.49,66.0,1.9,Ambulance,Alert,Emergency,418429.0,12,11,1,Y,38000,Old,Normal,Abnormal,22.49134948096886,Normal,Hypertension Stage 1,Abnormal
+143,6.0,F,Unmarried,other- heart,18.0,120,82,113.0,73.0,24,,,,,Walked in,Alert,Elective,120367.81,7,1,6,N,0,Child,Normal,Abnormal,12.5,Underweight,Normal,Abnormal
+177,65.0,M,Married,,62.0,160,41,170.0,80.0,32,Hypertension1,14.6,27.0,0.7,Ambulance,Alert,Emergency,159882.0,10,6,4,N,0,Old,Normal,Abnormal,24.218749999999996,Normal,Hypertension Stage 1,Abnormal
+139,11.0,M,Unmarried,other- heart,16.3,120,98,90.0,50.0,24,,20.1,29.0,0.3,Walked in,Alert,Elective,97060.8,10,1,9,N,0,Youngadult,Normal,Abnormal,11.319444444444445,Underweight,Normal,Abnormal
+63,13.0,M,Unmarried,,22.0,133,90,110.0,60.0,32,,11.0,18.0,1.0,Walked in,Alert,Elective,122892.0,9,1,8,N,0,Youngadult,Normal,Normal,12.437107807111763,Underweight,Normal,Normal
+136,6.0,M,Unmarried,other-tertalogy,16.4,105,110,100.0,60.0,20,Hypertension2,19.4,21.0,0.3,Walked in,Alert,Elective,147132.0,9,1,8,N,0,Child,Normal,Abnormal,14.875283446712016,Underweight,Normal,Abnormal
+129,16.0,M,Unmarried,RHD,39.7,160,120,130.0,80.0,24,,9.8,36.0,0.8,Walked in,Alert,Elective,233266.0,9,3,6,Y,41600,Youngadult,Low,Abnormal,15.507812499999998,Underweight,Hypertension Stage 1,Normal
+225,0.9166666666666666,F,Unmarried,other-tertalogy,6.0,76,90,,,24,,11.7,22.0,0.3,Walked in,Alert,Elective,144731.0,6,3,3,N,0,Child,Normal,Abnormal,10.387811634349031,Underweight,Hypertensive Crisis,Normal
+210,61.0,M,Married,RHD,49.0,160,76,90.0,60.0,24,Hypertension1,13.5,32.0,0.6,Walked in,Alert,Elective,210622.0,10,1,9,Y,51450,Old,Normal,Abnormal,19.140624999999996,Normal,Normal,Abnormal
+71,12.0,M,Unmarried,,27.0,144,72,100.0,60.0,22,,12.0,18.0,1.0,Walked in,Alert,Elective,114580.0,7,1,6,N,0,Youngadult,Normal,Normal,13.020833333333334,Underweight,Normal,Normal
+191,63.0,M,Married,other- heart,62.0,172,98,130.0,70.0,20,,13.3,,,Walked in,Alert,Elective,241130.0,9,2,7,Y,51450,Old,Normal,Abnormal,20.9572742022715,Normal,Hypertension Stage 1,Abnormal
+65,11.0,M,Unmarried,,26.0,140,90,,,20,,12.0,18.0,1.0,Walked in,Alert,Elective,142552.0,8,1,7,N,0,Youngadult,Normal,Normal,13.265306122448981,Underweight,Hypertensive Crisis,Normal
+45,3.0,M,Unmarried,other- respiratory,10.0,85,120,88.0,44.0,24,,8.0,18.0,,Walked in,Alert,Elective,169726.43,11,2,9,N,0,Child,Low,Normal,13.84083044982699,Underweight,Normal,Abnormal
+160,12.0,M,Unmarried,other- respiratory,23.5,130,90,100.0,70.0,22,,12.8,21.0,0.3,Walked in,Alert,Elective,49700.0,3,0,3,N,0,Youngadult,Normal,Abnormal,13.90532544378698,Underweight,Normal,Abnormal
+41,62.0,M,Married,CAD-TVD,72.0,172,63,110.0,70.0,26,,13.0,17.0,1.0,Walked in,Alert,Elective,144037.23,8,1,7,N,0,Old,Normal,Normal,24.337479718766904,Normal,Normal,Normal
+124,4.0,M,Unmarried,other- heart,14.9,99,102,100.0,53.0,24,,11.9,34.0,0.3,Walked in,Alert,Elective,202633.9,9,3,6,Y,21498,Child,Normal,Abnormal,15.202530354045507,Underweight,Normal,Abnormal
+154,3.0,M,Unmarried,CAD-VSD,12.5,93,104,90.0,50.0,22,,11.1,28.0,0.3,Walked in,Alert,Elective,140545.0,12,1,11,N,0,Child,Normal,Abnormal,14.452537865649207,Underweight,Normal,Normal
+24,70.0,M,Married,CAD-DVD,60.0,158,81,90.0,60.0,18,Diabetes1,11.4,36.0,1.8,Ambulance,Alert,Emergency,345590.0,23,9,14,N,0,Old,Normal,Abnormal,24.034609838166958,Normal,Normal,Abnormal
+186,11.0,M,Unmarried,OS-ASD,33.4,165,88,110.0,80.0,24,,11.8,25.0,0.5,Walked in,Alert,Elective,133087.0,8,3,5,N,0,Youngadult,Normal,Abnormal,12.268135904499541,Underweight,Hypertension Stage 1,Normal
+182,38.0,F,Married,RHD,56.0,150,68,100.0,70.0,24,,11.6,32.0,0.6,Walked in,Alert,Elective,193543.0,9,3,6,Y,20900,Adult,Normal,Abnormal,24.88888888888889,Normal,Normal,Normal
+82,51.0,M,Married,CAD-DVD,55.6,148,69,100.0,70.0,23,Hypertension1,14.1,29.0,1.1,Ambulance,Alert,Emergency,199268.0,12,4,8,N,0,Old,Normal,Abnormal,25.383491599707817,Overweight,Normal,Normal
+40,67.0,M,Married,,57.0,167,90,120.0,80.0,24,,15.0,24.0,1.0,Walked in,Alert,Elective,162364.0,13,4,9,N,0,Old,Normal,Abnormal,20.43816558499767,Normal,Hypertension Stage 1,Normal
+209,4.0,M,Unmarried,ACHD,14.2,98,93,90.0,60.0,28,,13.1,19.0,0.3,Walked in,Alert,Elective,51009.0,6,1,5,N,0,Child,Normal,Normal,14.785506039150354,Underweight,Normal,Abnormal
+48,64.0,M,Married,,68.0,162,60,130.0,90.0,24,Hypertension1,14.0,22.0,1.0,Walked in,Alert,Elective,146308.6,9,2,7,N,0,Old,Normal,Abnormal,25.910684346898332,Overweight,Hypertension Stage 1,Normal
+95,7.0,M,Unmarried,other- heart,14.0,112,80,,,22,,13.1,29.0,1.2,Walked in,Alert,Elective,179720.0,8,4,4,N,0,Child,Normal,Abnormal,11.160714285714285,Underweight,Hypertensive Crisis,Abnormal
+242,52.0,M,Married,,54.0,162,80,160.0,90.0,20,,11.5,26.0,0.5,Walked in,Alert,Elective,248031.0,10,4,6,Y,20900,Old,Normal,Abnormal,20.576131687242793,Normal,Hypertension Stage 2,Abnormal
+162,5.0,M,Unmarried,other- heart,15.0,105,110,,,32,,12.4,32.0,0.2,Walked in,Alert,Elective,288614.2,25,6,20,N,0,Child,Normal,Abnormal,13.605442176870747,Underweight,Hypertensive Crisis,Abnormal
+44,50.0,M,Married,,65.0,155,59,120.0,70.0,20,,16.0,26.0,1.0,Ambulance,Alert,Emergency,178100.0,14,3,11,N,0,Adult,Normal,Abnormal,27.055150884495315,Overweight,Elevated,Normal
+146,1.0,F,Unmarried,other- heart,6.8,68,112,80.0,50.0,24,,12.4,15.0,0.3,Walked in,Alert,Elective,154669.0,12,2,10,N,0,Child,Normal,Normal,14.705882352941174,Underweight,Normal,Normal
+238,10.0,M,Unmarried,other- heart,6.6,75,135,,,24,,8.5,14.0,0.3,Walked in,Alert,Elective,123320.0,9,1,8,N,0,Child,Low,Normal,11.733333333333333,Underweight,Hypertensive Crisis,Abnormal
+4,46.0,M,Married,CAD-DVD,80.0,173,122,110.0,80.0,24,Hypertension1,11.8,74.0,1.5,Ambulance,Alert,Emergency,629990.0,14,13,1,Y,89450,Adult,Normal,Abnormal,26.729927495071667,Overweight,Hypertension Stage 1,Abnormal
+106,45.0,F,Married,other- heart,41.0,152,88,110.0,70.0,20,,13.1,38.0,0.8,Walked in,Alert,Elective,139723.0,7,3,4,N,0,Adult,Normal,Abnormal,17.74584487534626,Underweight,Normal,Normal
+54,48.0,M,Married,,64.0,158,74,120.0,70.0,22,Hypertension2,12.0,28.0,1.0,Walked in,Alert,Elective,162957.32,9,2,7,N,0,Adult,Normal,Abnormal,25.63691716071142,Overweight,Elevated,Normal
+134,12.0,F,Unmarried,other- heart,32.4,151,102,180.0,130.0,24,,17.8,15.0,0.4,Walked in,Alert,Elective,148652.0,8,2,6,N,0,Youngadult,Normal,Normal,14.20990307442656,Underweight,Hypertension Stage 2,Abnormal
+226,55.0,M,Married,ACHD,55.0,164,96,160.0,90.0,24,,12.8,33.0,0.7,Walked in,Alert,Elective,178037.0,12,3,9,N,0,Old,Normal,Abnormal,20.449137418203453,Normal,Hypertension Stage 2,Abnormal
+221,24.0,M,Unmarried,OS-ASD,74.8,158,78,120.0,80.0,20,,11.4,19.0,1.3,Walked in,Alert,Elective,205998.0,10,3,7,N,0,Youngadult,Normal,Normal,29.96314693158147,Overweight,Hypertension Stage 1,Normal
+231,7.0,F,Unmarried,OS-ASD,15.3,117,114,90.0,60.0,24,,11.5,22.0,0.3,Walked in,Alert,Elective,133436.0,13,1,12,N,0,Child,Normal,Abnormal,11.176857330703486,Underweight,Normal,Abnormal
+50,1.0,M,Unmarried,other-nervous,5.0,66,100,100.0,70.0,24,,10.0,50.0,,Walked in,Alert,Elective,206500.95,15,6,9,N,0,Child,Low,Abnormal,11.478420569329659,Underweight,Normal,Abnormal
+164,13.0,F,Unmarried,other-tertalogy,31.0,145,100,100.0,70.0,24,,23.2,30.0,0.3,Walked in,Alert,Elective,170302.0,12,3,10,N,0,Youngadult,Normal,Abnormal,14.74435196195006,Underweight,Normal,Abnormal
+81,5.0,F,Unmarried,other- respiratory,15.0,117,80,110.0,80.0,24,,11.0,25.0,,Walked in,Alert,Elective,119935.36,7,1,6,N,0,Child,Normal,Abnormal,10.957703265395574,Underweight,Hypertension Stage 1,Abnormal
+35,70.0,M,Married,other- heart,60.0,160,43,140.0,60.0,13,Hypertension1,11.7,,5.2,Ambulance,Confused,Emergency,349318.0,11,5,6,Y,56000,Old,Normal,Abnormal,23.437499999999996,Normal,Hypertension Stage 2,Abnormal
+205,12.0,F,Unmarried,other- heart,26.0,55,58,90.0,60.0,26,Other,14.6,23.0,0.3,Walked in,Alert,Elective,58943.0,5,3,2,N,0,Youngadult,Normal,Abnormal,85.95041322314049,Obese,Normal,Abnormal
+8,71.0,M,Married,CAD-TVD,43.8,164,60,130.0,90.0,22,,10.1,37.0,1.5,Walked in,Alert,Emergency,389827.0,24,11,13,N,0,Old,Low,Abnormal,16.284949434860202,Underweight,Hypertension Stage 1,Abnormal
+172,14.0,F,Unmarried,OS-ASD,20.0,122,76,110.0,70.0,22,,15.3,22.0,0.3,Walked in,Alert,Elective,162957.0,15,3,12,N,0,Youngadult,Normal,Abnormal,13.437248051599033,Underweight,Normal,Abnormal
+111,69.0,M,Married,other- heart,60.0,185,90,120.0,90.0,22,,9.6,33.0,1.3,Walked in,Alert,Elective,276458.0,6,5,1,Y,38000,Old,Low,Abnormal,17.531044558071585,Underweight,Hypertension Stage 2,Normal
+92,3.0,M,Unmarried,ACHD,13.0,85,140,90.0,60.0,24,Other,11.4,15.0,0.3,Walked in,Alert,Elective,195136.0,12,3,9,N,0,Child,Normal,Normal,17.99307958477509,Underweight,Normal,Normal
+84,62.0,F,Married,RHD,44.7,155,87,130.0,68.0,24,,9.8,143.0,2.5,Ambulance,Alert,Emergency,334955.0,19,5,14,Y,41800,Old,Low,Abnormal,18.605619146722162,Normal,Hypertension Stage 1,Abnormal
+222,44.0,M,Married,,62.0,165,80,130.0,80.0,24,Hypertension2,8.1,,,Walked in,Alert,Elective,78251.0,11,1,10,N,0,Adult,Low,Abnormal,22.77318640955005,Normal,Hypertension Stage 1,Abnormal
+227,9.0,F,Unmarried,OS-ASD,23.0,132,100,90.0,60.0,20,,12.0,17.0,0.3,Walked in,Alert,Elective,114513.0,8,1,7,N,0,Child,Normal,Normal,13.200183654729107,Underweight,Normal,Abnormal
+90,3.0,F,Unmarried,other- heart,9.0,81,99,,,20,,12.9,17.0,0.3,Walked in,Alert,Elective,109575.6,18,1,17,N,0,Child,Normal,Normal,13.71742112482853,Underweight,Hypertensive Crisis,Normal
+9,72.0,M,Married,CAD-DVD,72.0,174,95,100.0,50.0,25,Diabetes2,9.6,32.0,1.2,Ambulance,Alert,Emergency,437529.07,26,9,17,N,0,Old,Low,Abnormal,23.781212841854934,Normal,Normal,Normal
+14,64.0,M,Married,,56.0,168,105,130.0,80.0,22,,14.0,2.0,1.0,Walked in,Alert,Elective,420040.0,21,10,11,N,0,Old,Normal,Normal,19.841269841269845,Normal,Hypertension Stage 1,Normal
+60,10.0,F,Unmarried,,23.0,137,90,90.0,60.0,22,,11.0,18.0,,Walked in,Alert,Elective,115908.0,9,1,8,N,0,Child,Normal,Normal,12.254249027651978,Underweight,Normal,Abnormal
+214,1.0,F,Unmarried,ACHD,9.7,78,112,80.0,40.0,22,,8.7,15.0,0.3,Transferred,Alert,Elective,46093.0,6,1,5,N,0,Child,Low,Normal,15.943458251150556,Underweight,Normal,Normal
+132,12.0,F,Unmarried,ACHD,40.8,154,84,,,20,,11.7,18.0,0.7,Walked in,Alert,Elective,117185.0,7,1,6,N,0,Youngadult,Normal,Normal,17.203575645134087,Underweight,Hypertensive Crisis,Normal
+18,59.0,F,Married,RHD,47.0,150,60,130.0,90.0,24,Hypertension1,12.3,15.0,0.7,Walked in,Alert,Elective,343984.0,17,5,12,Y,20800,Old,Normal,Normal,20.88888888888889,Normal,Hypertension Stage 1,Normal
+167,74.0,M,Married,CAD-DVD,57.1,157,94,120.0,80.0,20,Hypertension2,11.2,34.0,1.6,Ambulance,Alert,Emergency,219126.24,12,6,6,N,0,Old,Normal,Abnormal,23.165239969167107,Normal,Hypertension Stage 1,Abnormal
+73,14.0,F,Unmarried,,49.0,149,111,100.0,80.0,26,,12.0,33.0,,Walked in,Alert,Elective,129474.64,7,3,4,N,0,Youngadult,Normal,Abnormal,22.071077879374805,Normal,Hypertension Stage 1,Abnormal
+219,20.0,F,Unmarried,RHD,45.0,147,88,120.0,80.0,22,Other,11.9,19.0,0.5,Walked in,Alert,Elective,156374.0,8,1,7,Y,20900,Youngadult,Normal,Normal,20.824656393169516,Normal,Hypertension Stage 1,Abnormal
+135,2.0,F,Unmarried,ACHD,7.4,77,126,99.0,57.0,30,Other,11.4,40.0,0.4,Walked in,Alert,Elective,79302.0,8,2,6,N,0,Child,Normal,Abnormal,12.481025468038457,Underweight,Normal,Normal
+235,34.0,F,Married,RHD,41.0,155,88,110.0,70.0,22,,12.7,22.0,,Walked in,Alert,Elective,180713.0,10,2,8,Y,20900,Adult,Normal,Abnormal,17.065556711758582,Underweight,Normal,Abnormal
+229,4.0,F,Unmarried,PM-VSD,10.0,81,120,80.0,40.0,24,,12.1,20.0,0.3,Walked in,Alert,Elective,145697.0,7,2,5,N,0,Child,Normal,Abnormal,15.241579027587255,Underweight,Normal,Abnormal
+64,12.0,F,Unmarried,other- heart,35.0,140,102,100.0,70.0,26,,13.0,18.0,,Walked in,Alert,Elective,124804.0,9,1,8,N,0,Youngadult,Normal,Normal,17.85714285714286,Underweight,Normal,Abnormal
+55,53.0,M,Married,,59.0,159,68,130.0,80.0,16,Hypertension3,14.0,19.0,1.0,Walked in,Alert,Elective,133009.0,9,2,7,N,0,Old,Normal,Normal,23.337684427040067,Normal,Hypertension Stage 1,Normal
+108,41.0,F,Married,RHD,63.6,162,62,110.0,70.0,22,,13.6,56.0,1.1,Walked in,Alert,Elective,253471.0,10,1,9,Y,82320,Adult,Normal,Abnormal,24.234110653863738,Normal,Normal,Normal
+51,55.0,M,Married,,78.0,163,100,140.0,90.0,22,,15.0,24.0,1.0,Walked in,Alert,Elective,120131.0,8,1,7,N,0,Old,Normal,Abnormal,29.357521924046825,Overweight,Hypertension Stage 2,Normal
+206,1.0,M,Unmarried,other- heart,9.0,80,100,90.0,60.0,30,,11.4,23.0,0.3,Walked in,Alert,Elective,136040.0,8,1,7,N,0,Child,Normal,Abnormal,14.062499999999996,Underweight,Normal,Normal
+175,13.0,M,Unmarried,other-tertalogy,29.0,147,112,110.0,80.0,22,,22.9,31.0,0.3,Walked in,Alert,Elective,161017.0,8,2,6,N,0,Youngadult,Normal,Abnormal,13.420334120042575,Underweight,Hypertension Stage 1,Abnormal
+207,1.0,F,Unmarried,other-nervous,8.3,74,100,,,24,,12.3,23.0,0.3,Walked in,Alert,Elective,78215.0,7,2,5,N,0,Child,Normal,Abnormal,15.157048940832727,Underweight,Hypertensive Crisis,Normal
+190,2.0,M,Unmarried,OS-ASD,11.0,83,96,,,28,,11.3,17.0,0.3,Walked in,Alert,Elective,163914.0,15,1,14,N,0,Child,Normal,Normal,15.967484395412978,Underweight,Hypertensive Crisis,Normal
+245,58.0,M,Married,CAD-TVD,57.0,159,58,100.0,70.0,24,Other,10.6,15.0,0.8,Walked in,Alert,Elective,200321.0,11,2,9,Y,26000,Old,Low,Normal,22.54657648036074,Normal,Normal,Abnormal
+208,4.0,M,Unmarried,other- heart,15.0,105,100,110.0,50.0,24,,13.0,21.0,0.3,Walked in,Alert,Elective,73218.0,7,2,5,N,0,Child,Normal,Abnormal,13.605442176870747,Underweight,Normal,Abnormal
+220,1.0,F,Unmarried,other-tertalogy,10.0,70,108,,,24,,11.9,15.0,0.3,Walked in,Alert,Elective,238320.0,13,3,10,N,0,Child,Normal,Normal,20.408163265306126,Normal,Hypertensive Crisis,Normal
+170,70.0,M,Married,CAD-DVD,54.7,168,68,140.0,50.0,22,Hypertension1,12.8,36.0,1.2,Walked in,Alert,Elective,162271.0,8,3,5,N,0,Old,Normal,Abnormal,19.380668934240365,Normal,Hypertension Stage 2,Normal
+59,12.0,F,Unmarried,,32.0,149,82,100.0,50.0,24,,9.0,15.0,,Walked in,Alert,Elective,128104.37,6,2,4,N,0,Youngadult,Low,Normal,14.413765145714157,Underweight,Normal,Abnormal
+49,53.0,M,Married,,55.0,156,80,140.0,80.0,20,Hypertension3,13.0,20.0,1.0,Walked in,Alert,Elective,134497.65,8,2,6,N,0,Old,Normal,Abnormal,22.600262984878366,Normal,Hypertension Stage 1,Normal
+89,16.0,F,Unmarried,other- heart,31.0,150,72,110.0,70.0,22,,21.0,29.0,0.3,Walked in,Alert,Elective,156576.85,12,2,10,N,0,Youngadult,Normal,Abnormal,13.777777777777779,Underweight,Normal,Abnormal
+22,62.0,M,Married,CAD-TVD,74.0,160,60,160.0,70.0,24,Diabetes2,9.7,31.0,1.1,Walked in,Alert,Elective,288960.0,9,8,1,N,0,Old,Low,Abnormal,28.906249999999993,Overweight,Hypertension Stage 2,Normal
+58,10.0,M,Unmarried,,6.0,64,96,87.0,57.0,26,Other,12.0,67.0,1.0,Walked in,Alert,Elective,163372.0,13,3,10,N,0,Child,Normal,Abnormal,14.6484375,Underweight,Normal,Normal
+204,10.0,M,Unmarried,PM-VSD,6.0,26,120,,,26,,12.5,15.0,0.3,Walked in,Alert,Elective,169641.0,10,3,7,N,0,Child,Normal,Normal,88.75739644970413,Obese,Hypertensive Crisis,Abnormal
+161,6.0,M,Unmarried,RHD,17.5,114,102,100.0,60.0,28,,12.4,18.0,0.3,Walked in,Alert,Elective,155352.0,11,2,9,Y,21498,Child,Normal,Normal,13.465681748230226,Underweight,Normal,Abnormal
+241,5.0,M,Unmarried,other- heart,16.9,118,118,80.0,60.0,24,Other,11.5,28.0,0.3,Walked in,Alert,Elective,118607.0,7,1,6,N,0,Child,Normal,Abnormal,12.137316862970412,Underweight,Normal,Abnormal
+188,56.0,M,Married,CAD-TVD,85.0,173,100,140.0,90.0,20,Diabetes2,12.1,19.0,0.8,Walked in,Alert,Elective,191102.0,9,4,5,N,0,Old,Normal,Normal,28.40054796351365,Overweight,Hypertension Stage 2,Abnormal
+192,68.0,M,Married,CAD-DVD,64.3,154,80,160.0,100.0,20,,14.4,18.0,1.1,Walked in,Alert,Elective,138535.0,9,1,8,N,0,Old,Normal,Normal,27.11249789171867,Overweight,Hypertension Stage 2,Normal
+130,1.0,M,Unmarried,PM-VSD,9.6,29,92,80.0,60.0,24,,12.6,29.0,0.3,Walked in,Alert,Elective,153445.0,13,1,12,N,0,Child,Normal,Abnormal,114.1498216409037,Obese,Normal,Normal
+38,63.0,F,Married,other- heart,59.0,162,76,150.0,80.0,15,Hypertension3,12.0,28.0,1.0,Walked in,Alert,Elective,260036.0,16,5,11,N,0,Old,Normal,Abnormal,22.481329065691202,Normal,Hypertension Stage 1,Normal
+158,0.03287671232876712,M,Unmarried,other- respiratory,2.02,45,120,,,32,,18.8,27.0,0.5,Walked in,Alert,Elective,77241.0,7,1,6,N,0,Child,Normal,Abnormal,9.975308641975309,Underweight,Hypertensive Crisis,Normal
+234,50.0,M,Unmarried,CAD-DVD,64.1,158,82,110.0,60.0,12,Hypertension2,10.3,28.0,1.2,Walked in,Alert,Elective,186450.0,11,5,6,N,0,Adult,Low,Abnormal,25.676974843775028,Overweight,Normal,Normal
+2,59.0,M,Married,CAD-DVD,41.0,155,78,70.0,50.0,28,,11.4,95.0,1.7,Ambulance,Alert,Emergency,809130.0,41,20,21,Y,39690,Old,Normal,Abnormal,17.065556711758582,Underweight,Normal,Abnormal
+53,71.0,M,Married,CAD-DVD,56.0,160,72,130.0,70.0,20,Hypertension1,13.0,24.0,1.0,Walked in,Alert,Elective,138923.0,9,2,7,N,0,Old,Normal,Abnormal,21.874999999999996,Normal,Hypertension Stage 1,Normal
+150,5.0,F,Unmarried,other- heart,14.3,109,101,112.0,62.0,22,,11.4,32.0,0.4,Walked in,Alert,Elective,61340.0,7,1,6,N,0,Child,Normal,Abnormal,12.036023903711808,Underweight,Normal,Abnormal
+131,14.0,F,Unmarried,RHD,36.0,160,125,,,26,,9.6,33.0,0.8,Walked in,Alert,Elective,135216.0,11,1,10,N,0,Youngadult,Low,Abnormal,14.062499999999996,Underweight,Hypertensive Crisis,Normal
+152,3.0,M,Unmarried,other-tertalogy,10.8,91,102,,,20,,10.8,25.0,0.4,Walked in,Alert,Elective,143773.58000000002,9,1,8,N,0,Child,Low,Abnormal,13.041903151793262,Underweight,Hypertensive Crisis,Normal
+104,3.0,M,Unmarried,other-tertalogy,13.3,88,120,112.0,80.0,22,Other,20.7,20.0,0.3,Walked in,Alert,Elective,169951.0,11,2,9,N,0,Child,Normal,Abnormal,17.174586776859506,Underweight,Hypertension Stage 1,Normal
+100,1.0,M,Unmarried,other- heart,11.1,76,102,102.0,64.0,28,,12.9,19.0,0.3,Walked in,Alert,Elective,208535.71,14,4,10,N,0,Child,Normal,Normal,19.217451523545705,Normal,Normal,Normal
+117,16.0,F,Unmarried,other- heart,41.0,162,74,100.0,70.0,24,,12.4,19.0,0.4,Walked in,Alert,Elective,323960.0,12,2,10,Y,77450,Youngadult,Normal,Normal,15.622618503276936,Underweight,Normal,Abnormal
+88,42.0,M,Married,RHD,45.0,172,127,100.0,70.0,23,,12.6,21.0,0.7,Walked in,Alert,Elective,294615.9,15,5,10,Y,41800,Adult,Normal,Abnormal,15.210924824229314,Underweight,Normal,Abnormal
+203,7.0,M,Unmarried,other- heart,24.0,129,104,110.0,60.0,24,,12.0,22.0,0.3,Walked in,Alert,Elective,174074.0,9,2,7,N,0,Child,Normal,Abnormal,14.422210203713718,Underweight,Normal,Abnormal
+75,13.0,M,Unmarried,,22.0,133,90,110.0,60.0,32,,11.0,18.0,1.0,Walked in,Alert,Elective,122892.0,9,1,8,N,0,Youngadult,Normal,Normal,12.437107807111763,Underweight,Normal,Normal
+215,56.0,M,Married,CAD-TVD,78.0,169,70,170.0,110.0,20,Diabetes1,13.4,20.0,,Walked in,Alert,Elective,188824.0,9,5,4,N,0,Old,Normal,Abnormal,27.309968138370508,Overweight,Hypertension Stage 2,Abnormal
+211,20.0,M,Unmarried,RHD,54.0,171,84,130.0,80.0,20,,7.0,,,Walked in,Alert,Elective,260869.0,8,2,6,Y,60000,Youngadult,Low,Abnormal,18.467220683287167,Underweight,Hypertension Stage 1,Abnormal
+122,24.0,F,Married,RHD,43.0,159,68,110.0,70.0,22,,,,,Walked in,Alert,Elective,197865.0,11,1,10,Y,20900,Youngadult,Normal,Abnormal,17.008820853605474,Underweight,Normal,Abnormal
+248,30.0,M,Married,RHD,71.0,180,87,130.0,40.0,20,,12.6,15.0,0.8,Walked in,Alert,Elective,248112.0,10,4,6,Y,41800,Adult,Normal,Normal,21.91358024691358,Normal,Hypertension Stage 1,Abnormal
+21,54.0,F,Married,CAD-DVD,51.0,147,110,100.0,70.0,26,Diabetes1,11.4,16.0,0.5,Walked in,Alert,Elective,341109.0,16,10,6,N,0,Old,Normal,Normal,23.601277245592115,Normal,Normal,Abnormal
+189,3.0,M,Unmarried,other-tertalogy,12.5,88,110,,,24,,18.7,15.0,0.4,Walked in,Alert,Elective,168670.0,11,1,10,N,0,Child,Normal,Normal,16.141528925619834,Underweight,Hypertensive Crisis,Normal
+72,5.0,F,Unmarried,other- respiratory,15.0,117,80,110.0,80.0,24,,11.0,25.0,,Walked in,Alert,Elective,119935.36,7,1,6,N,0,Child,Normal,Abnormal,10.957703265395574,Underweight,Hypertension Stage 1,Abnormal
+107,48.0,F,Married,ACHD,42.0,154,76,120.0,70.0,24,,11.2,16.0,0.4,Walked in,Alert,Elective,119685.64,6,2,4,N,0,Adult,Normal,Normal,17.70956316410862,Underweight,Elevated,Abnormal
+15,68.0,F,Unmarried,CAD-DVD,51.0,123,66,120.0,80.0,20,Hypertension3,12.5,21.0,0.7,Ambulance,Alert,Emergency,495968.7,16,16,0,N,0,Old,Normal,Abnormal,33.71009319849296,Obese,Hypertension Stage 1,Normal
+93,1.0,M,Unmarried,other- heart,5.7,65,116,80.0,42.0,34,,9.6,25.0,0.3,Walked in,Alert,Elective,265243.0,18,15,3,N,0,Child,Low,Abnormal,13.49112426035503,Underweight,Normal,Normal
+180,45.0,M,Married,CAD-DVD,55.0,156,72,140.0,80.0,20,Diabetes1,14.0,27.0,0.6,Walked in,Alert,Elective,144134.0,10,1,9,N,0,Adult,Normal,Abnormal,22.600262984878366,Normal,Hypertension Stage 1,Abnormal
+103,2.0,M,Unmarried,other-nervous,10.0,74,98,90.0,50.0,24,,9.6,23.0,0.3,Walked in,Alert,Elective,189701.55,15,4,11,N,0,Child,Low,Abnormal,18.261504747991236,Underweight,Normal,Normal
