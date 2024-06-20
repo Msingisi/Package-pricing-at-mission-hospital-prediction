@@ -10,7 +10,7 @@ To develop a predictive analytics model that accurately forecasts the cost of me
 
 ## Data Preparation 
 
-- **Age Categories:** <10, 11 25, 26 50, 50 and above (as per domain expertise) 
+- **Age Categories:** <10, 11-25, 26-50, >50 and above (as per domain expertise) 
 - **BP Ranges:** Low, Normal, High, Critical (as per the medical charts)
 - **BMI:** Underweight, Normal, Overweight, Obese (as per the medical charts)
 - **Hemoglobin:** normal - Female 12 to 15.5, Men 13 to 17.5, any value outside these limits will be abnormal
@@ -46,6 +46,10 @@ Top 3 models (with default parameters)
 | Random Forest   	                                            | 42510.84 	            |
 | Extra Trees               	                        | 44862.48	            |
 
+## Limitation and what can be improved
 
+- The dataset has only 248 rows of data, working with a large dataset will help improve the results
+- Retrain the model without the least predictive features
+- Hyperparameter tuning: I used RandomSearchCV to save time but could be improved by couple of % with GridSearchCV.
 
 
