@@ -26,14 +26,17 @@ Age > 18 & Male & creatinine: 0.9 - 1.3 ->	Normal, Else: Abnormal
 - Model deployment
 
 ## Quick glance at the results
+BMI results
+![BMI](https://github.com/Msingisi/Package-pricing-at-mission-hospital-prediction/blob/main/images/BMI.png)
+
 Correlation between the features.
-![heatmap](assets/heatmap.png)
+![heatmap](https://github.com/Msingisi/Package-pricing-at-mission-hospital-prediction/blob/main/images/correlation%20metrix.png)
 
 Top features of gradient boosting with the best hyperparameters.
-![Top 10](assets/top10.png)
+![Top 10](https://github.com/Msingisi/Package-pricing-at-mission-hospital-prediction/blob/main/images/Top%20Features.png)
 
 Least useful features of gradient boosting with the best hyperparameters.
-![Bottom 10](assets/bottom10.png)
+![Bottom 10](https://github.com/Msingisi/Package-pricing-at-mission-hospital-prediction/blob/main/images/Bottom%20features.png)
 
 Top 3 models (with default parameters)
 
