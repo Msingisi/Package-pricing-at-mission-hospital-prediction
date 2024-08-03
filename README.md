@@ -40,16 +40,10 @@ Least useful features of gradient boosting with the best hyperparameters.
 
 Top 3 models (with default parameters)
 
-| Model with the best hyperparameter     	                | RMSE  |
+| Model with the best hyperparameter     	                | MAE  |
 |-------------------	                                    |------------------	|
-| Gradient Boosting     	                                    | 37314.11 	    |
-| Random Forest   	                                            | 42510.84 	            |
-| Extra Trees               	                        | 44862.48	            |
-
-## Limitation and what can be improved
-
-- The dataset has only 248 rows of data, working with a large dataset will help improve the results
-- Retrain the model without the least predictive features
-- Hyperparameter tuning: I used RandomSearchCV to save time but could be improved by couple of % with GridSearchCV.
+| Extra Trees Regression     	                                    | 31823.39 	    |
+| Gradient Boosting Regression   	                                            | 28748.16 	            |
+| Random Forest Regression               	                        | 34333.41	            |
 
 
